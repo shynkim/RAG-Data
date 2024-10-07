@@ -1,5 +1,4 @@
 
-법 & 법령 - Law \n
-표준지침
-고시 - Announcement
-가이드라인 - Guideline
+Law (법, 법령)
+Announcement (표준지침)
+Guideline (가이드라인, 안내서)
